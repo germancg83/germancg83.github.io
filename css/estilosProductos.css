@@ -20,7 +20,7 @@ body{
 }
 
 img {
-    display: block;
+    display: flex;
     width: 40%;
     margin: auto;
   }
