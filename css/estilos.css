@@ -95,11 +95,12 @@ h1 {
 }
         
 ul{
-    display: flex;
+    display:block;
     justify-content: space-around;
     font-weight: bold;
     color: rgb(4, 4, 4);
     font-size: large;
+    
         
 }
         
